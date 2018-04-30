@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "139654160315",
+    "firebase_url": "https://sendnotification-7edae.firebaseio.com",
+    "project_id": "sendnotification-7edae",
+    "storage_bucket": "sendnotification-7edae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139654160315:android:f6e15f03157e75d5",
+        "android_client_info": {
+          "package_name": "com.example.pc41.sendnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139654160315-rlr30na3cpai6jv63bpqv02ohuf6dr9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMy9QXvG5E7G28b-BBmTHCT12gauRl9ZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
